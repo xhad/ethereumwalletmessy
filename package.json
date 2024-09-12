@@ -18,6 +18,6 @@
   "homepage": "https://github.com/xhad/ethereumwalletmessy#readme",
   "dependencies": {
     "morgan": "^1.6.1",
-    "reload": "^0.7.0"
+    "reload": "^2.2.0"
   }
 }
